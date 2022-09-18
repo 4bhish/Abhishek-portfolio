@@ -60,7 +60,23 @@ hr{
 {
     background-color: var(--color-primary);
     color: white;
+    padding: 1rem;
+    border-radius: 1rem;
 }
 .navigation .link{
     color: white;
 }
+.navigation .nav-brand
+{
+   font-weight: bold;
+}
+.navigation .list-non-bullet
+{
+    text-align: right;
+}
+
+.navigation .link-active
+{
+    font-weight: bold;
+}
+
