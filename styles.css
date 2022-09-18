@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 :root {
-    --color-primary:#1f2937;
+    --color-primary:#1e40af;
+    --faint-grey:#6b7280;
 }
 body
 {
@@ -80,3 +81,28 @@ hr{
     font-weight: bold;
 }
 
+
+/** Header**/
+
+
+.hero
+
+{
+ padding: 2rem;
+}
+
+.hero .hero-image
+{
+    max-width: 360px;
+    display: block;
+    margin: auto;
+}
+.hero .hero-heading
+{
+  color: var(--faint-grey);
+}
+
+.hero .heading-inverted
+{
+    color: var(--color-primary);
+}
