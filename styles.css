@@ -139,24 +139,7 @@ p {
     margin-inline-end: 0px;
     margin-bottom: 1.5rem;
 }
-/* Proj-sect */
-.proj-section
-{
-    color: #0a0a23;
-    border: 1px solid burlywood;
-    border-radius: 1rem;
-    margin: 1rem auto;
-    width: 70%;
-    
-}
-.proj-container-centre
-{
-    text-align: center;
-    width: 60%;
-    margin:  auto;
-    padding-top: 0.2rem;
-   
-}
+
 /** Footers**/
 
 .footer
