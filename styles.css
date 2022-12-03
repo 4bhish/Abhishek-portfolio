@@ -169,3 +169,17 @@ border-radius: 0 2rem 0 0;
     font-weight: bold;
     font-size: large;
 }
+/* Blogs */
+.blog
+{
+    color: var(--color-secondary);
+    text-align: left;
+    width: 80%;
+    margin: auto;
+}
+.hr
+{
+    text-align: center;
+    
+
+}
